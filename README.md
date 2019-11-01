@@ -2,15 +2,20 @@
 本仓库主要用于存放每次组会汇报的论文、PPT以及其他学习材料
 
 ## 论文目录
-下面列了**电力负荷**、**图像方面**、**信息安全**等几个方向的论文，其他方向欢迎大家添加补充。
+下面列了**电力负荷**(PowerLoad)、**图像方面**(ImageAspect)、**信息安全**(InformationSafety)等方向的论文，其他方向欢迎大家添加补充。
 
 ### 电力负荷
-	
+<span id = "PowerLoad"/>
+
 
 ### 图像方面
+<span id = "ImageAspect"/>
+
 - High Quality Monocular Depth Estimation via Transfer Learning	*崔荣成*
 
 ### 信息安全
+<span id = "InformationSafety"/>
+
 - An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption	*陈佳圣*
 	
 - An intrusion detection system for connected vehicles in smart cities	*焦旭斌*
