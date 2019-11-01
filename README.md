@@ -8,21 +8,21 @@
 	
 
 ### 图像方面
-	- High Quality Monocular Depth Estimation via Transfer Learning	*崔荣成*
+- High Quality Monocular Depth Estimation via Transfer Learning	*崔荣成*
 
 ### 信息安全
-	- An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption	*陈佳圣*
+- An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption	*陈佳圣*
 	
-	- An intrusion detection system for connected vehicles in smart cities	*焦旭斌*
+- An intrusion detection system for connected vehicles in smart cities	*焦旭斌*
 	
-	- 在智能电网中启用匿名授权和奖励	*谷朝阳*
+- 在智能电网中启用匿名授权和奖励	*谷朝阳*
 	
-	- DSKMSADynamicSmartKeyManagemen	*乐可馨*
+- DSKMSADynamicSmartKeyManagemen	*乐可馨*
 	
-	- 本地化差分隐私	*谢荣*
+- 本地化差分隐私	*谢荣*
 
 ### 其他方向
-	欢迎大家自行补充
+欢迎大家自行补充
 	
 	
 ## PPT说明
