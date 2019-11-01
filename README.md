@@ -11,9 +11,9 @@
 	1.High Quality Monocular Depth Estimation via Transfer Learning	*崔荣成*
 
 ### 信息安全
-	1.An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption		*陈佳圣*
+	1.An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption	*陈佳圣*
 	
-	2.An intrusion detection system for connected vehicles in smart cities		*焦旭斌*
+	2.An intrusion detection system for connected vehicles in smart cities	*焦旭斌*
 	
 	3.DSKMSADynamicSmartKeyManagemen	*乐可馨*
 	
