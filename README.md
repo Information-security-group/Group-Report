@@ -8,6 +8,8 @@
 <span id = "PowerLoad"/>
 
 * 基于改进随机森林算法的电力系统短期负荷预测模型	*邢晨*
+* 基于云存储的智能电网访问控制研究       *葛江妍*
+* Cloud Computing Applications for Smart Grid A Survey    *葛江妍*
 
 
 
