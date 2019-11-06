@@ -32,7 +32,7 @@
 	
 - 在智能电网中启用匿名授权和奖励	*谷朝阳*
 	
-- DSKMSADynamicSmartKeyManagemen	*乐可馨*
+- DSKMSA Dynamic Smart Key Management	*乐可馨*
 	
 - 本地化差分隐私	*谢荣*
 
@@ -40,8 +40,10 @@
 
 ### 其他方向
 欢迎大家自行补充
-	
-	
+
+* A Survey of Model Compression and Acceleration for Deep Neural Networks	*丁庆丰*
+  	
+
 ## PPT说明
 PPT与论文相对应的，如有需要请按照论文分类进行查找
 
