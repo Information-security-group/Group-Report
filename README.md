@@ -35,7 +35,7 @@
 - DSKMSA Dynamic Smart Key Management	*乐可馨*
 	
 - 本地化差分隐私	*谢荣*
-
+-使用区块链保护个人数据  *王雪妍*
   
 
 ### 其他方向
