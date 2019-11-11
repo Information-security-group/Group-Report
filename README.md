@@ -21,6 +21,10 @@
 
 - An Overview of Deep Learning Based Object Detection Techniques	*李炜*
 
+- Rich feature hierarchies for accurate object detection and semantic segmentation    *曹磊*
+
+- 深度卷积神经网络的ImageNet分类   *孙超*
+
   
 
 ### 信息安全
@@ -35,6 +39,8 @@
 - DSKMSA Dynamic Smart Key Management	*乐可馨*
 	
 - 本地化差分隐私	*谢荣*
+
+- 区块链和安全    *王雪妍*
 
   
 
