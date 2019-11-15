@@ -50,11 +50,31 @@
 欢迎大家自行补充
 
 * A Survey of Model Compression and Acceleration for Deep Neural Networks	*丁庆丰*
-  	
+  
+* [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models](论文整理/其他方向/Shape&#32;and&#32;Time&#32;Distortion&#32;Loss&#32;for&#32;Training&#32;Deep&#32;Time&#32;Series&#32;Forecasting&#32;Models.pdf)（多步时间序列预测损失函数 -- DILATE）  *周绍景*
+
+* [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](论文整理/其他方向/[LSTNet]Modeling&#32;Long-&#32;and&#32;Short-Term&#32;Temporal&#32;Patterns&#32;with&#32;Deep&#32;Neural&#32;Networks.pdf)（多变量时间序列预测模型 -- LSTNet ）   *周绍景*
+
+
+* [Temporal Pattern Attention for Multivariate Time Series Forecasting](论文整理/其他方向/[TPA-LSTM]Temporal&#32;Pattern&#32;Attention&#32;for&#32;Multivariate&#32;Time&#32;Series&#32;Forecasting.pdf)（多变量时间序列预测模型 -- TPA-LSTM ）   *周绍景*
+
+
+
 
 ## PPT说明
 PPT与论文相对应的，如有需要请按照论文分类进行查找
 
+* [云计算中多变量时间序列工作负载预测 (组会PPT)](/PPT材料/其他方向/云计算中多变量时间序列工作负载预测.pptx)   *周绍景*
+
+* [Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models (组会PPT)](/PPT材料/其他方向/DILATE.pptx)  *周绍景*
+
+* [Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks (组会PPT)](/PPT材料/其他方向/LSTNet.pdf)  *周绍景*
+
+* [Temporal Pattern Attention for Multivariate Time Series Forecasting (组会PPT)](/PPT材料/其他方向/TPA-LSTM.pdf)  *周绍景*
 
 ## 其他材料
 其他仿真或者实验的代码等材料可以放到这里
+
+* DILATE 代码链接 (Pytorch)：https://github.com/vincent-leguen/DILATE
+* LSTNet 代码链接 (Keras)：https://github.com/fbadine/LSTNet
+* TPA-LSTM 代码链接 (Tensorflow): https://github.com/gantheory/TPA-LSTM
