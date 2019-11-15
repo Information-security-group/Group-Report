@@ -25,6 +25,8 @@
 
 - 深度卷积神经网络的ImageNet分类   *孙超*
 
+- Digging Into Self-Supervised Monocular Depth Estimation  *崔荣成*
+
   
 
 ### 信息安全
