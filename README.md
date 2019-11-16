@@ -10,7 +10,7 @@
 * 基于改进随机森林算法的电力系统短期负荷预测模型	*邢晨*
 * 基于云存储的智能电网访问控制研究       *葛江妍*
 * Cloud Computing Applications for Smart Grid A Survey    *葛江妍*
-
+* A novel LSTM based deep learning approach for multi-time scale electric vehicles charging load prediction  *丁庆丰*
 
 
 
@@ -38,9 +38,16 @@
 - DSKMSA Dynamic Smart Key Management	*乐可馨*
 - 本地化差分隐私	*谢荣*
 - 使用区块链保护个人数据  *王雪妍*
+<<<<<<< HEAD
 - 基于区块链的匿名认证与密钥管理的智能电网边缘计算基础设施 *陈佳圣*
 - A Blockchain-Based Framework for Data Sharing With Fin-Grained Access Control in Decentralized Storage Systems *葛江妍*
 - 
+=======
+
+-基于区块链的匿名认证与密钥管理的智能电网边缘计算基础设施 *陈佳圣*
+
+-A Blockchain-Based Framework for Data Sharing With Fin-Grained Access Control in Decentralized Storage Systems *葛江妍*
+>>>>>>> 03cf6fbfa40d7687498fdaa6c97847e28ca06e75
 
 ### 其他方向
 欢迎大家自行补充
