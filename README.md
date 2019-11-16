@@ -33,18 +33,14 @@
 <span id = "InformationSafety"/>
 
 - An Efficient and Secure Scheme for Smart Home Communication using Identity-Based Signcryption	*陈佳圣*
-	
 - An intrusion detection system for connected vehicles in smart cities	*焦旭斌*
-	
 - 在智能电网中启用匿名授权和奖励	*谷朝阳*
-	
 - DSKMSA Dynamic Smart Key Management	*乐可馨*
-	
 - 本地化差分隐私	*谢荣*
-
 - 使用区块链保护个人数据  *王雪妍*
-
-  
+- 基于区块链的匿名认证与密钥管理的智能电网边缘计算基础设施 *陈佳圣*
+- A Blockchain-Based Framework for Data Sharing With Fin-Grained Access Control in Decentralized Storage Systems *葛江妍*
+- 
 
 ### 其他方向
 欢迎大家自行补充
