@@ -44,7 +44,9 @@
 
 - 使用区块链保护个人数据  *王雪妍*
 
-  
+-基于区块链的匿名认证与密钥管理的智能电网边缘计算基础设施 *陈佳圣*
+
+-A Blockchain-Based Framework for Data Sharing With Fin-Grained Access Control in Decentralized Storage Systems *葛江妍*
 
 ### 其他方向
 欢迎大家自行补充
