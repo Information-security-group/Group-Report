@@ -17,7 +17,7 @@
 ### 图像方面
 <span id = "ImageAspect"/>
 
-- High Quality Monocular Depth Estimation via Transfer Learning	*崔荣成*
+- [High Quality Monocular Depth Estimation via Transfer Learning](论文整理/图像方面/High Quality Monocular Depth Estimation via Transfer Learning-崔荣成.pdf)	*崔荣成*
 
 - An Overview of Deep Learning Based Object Detection Techniques	*李炜*
 
@@ -25,7 +25,7 @@
 
 - 深度卷积神经网络的ImageNet分类   *孙超*
 
-- Digging Into Self-Supervised Monocular Depth Estimation  *崔荣成*
+- [Digging Into Self-Supervised Monocular Depth Estimation](论文整理/图像方面/Digging Into Self-Supervised Monocular Depth Estimation-崔荣成.pdf) *崔荣成*
 
   
 
