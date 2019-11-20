@@ -7,10 +7,10 @@
 ### 电力负荷
 <span id = "PowerLoad"/>
 
-* 基于改进随机森林算法的电力系统短期负荷预测模型	*邢晨*
-* 基于云存储的智能电网访问控制研究       *葛江妍*
-* Cloud Computing Applications for Smart Grid A Survey    *葛江妍*
-* A novel LSTM based deep learning approach for multi-time scale electric vehicles charging load prediction  *丁庆丰*
+* [基于改进随机森林算法的电力系统短期负荷预测模型](论文整理/电力负荷/基于改进随机森林算法的电力系统短期负荷预测模型.pdf)	*邢晨*
+* [基于云存储的智能电网访问控制研究](论文整理/电力负荷/基于云存储的智能电网访问控制研究.pdf)       *葛江妍*
+* [Cloud Computing Applications for Smart Grid A Survey](论文整理/电力负荷/Cloud&#32;Computing&#32;Applications&#32;for&#32;Smart&#32;Grid&#32;A&#32;Surve.pdf)    *葛江妍*
+* [A novel LSTM based deep learning approach for multi-time scale electric vehicles charging load prediction](论文整理/电力负荷/A&#32;novel&#32;LSTM&#32;based&#32;deep&#32;learning&#32;approach&#32;for&#32;multi-time&#32;scale&#32;electric&#32;vehicles&#32;charging&#32;load&#32;prediction.pdf)  *丁庆丰*
 
 
 
