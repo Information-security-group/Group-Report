@@ -8,12 +8,10 @@
 <span id = "PowerLoad"/>
 
 1. [基于改进随机森林算法的电力系统短期负荷预测模型](论文整理/电力负荷/基于改进随机森林算法的电力系统短期负荷预测模型.pdf)	*邢晨*
-
 2. [基于云存储的智能电网访问控制研究](论文整理/电力负荷/基于云存储的智能电网访问控制研究.pdf)       *葛江妍*
-
 3. [Cloud Computing Applications for Smart Grid A Survey](论文整理/电力负荷/Cloud&#32;Computing&#32;Applications&#32;for&#32;Smart&#32;Grid&#32;A&#32;Surve.pdf)    *葛江妍*
-
 4. [A novel LSTM based deep learning approach for multi-time scale electric vehicles charging load prediction](论文整理/电力负荷/A&#32;novel&#32;LSTM&#32;based&#32;deep&#32;learning&#32;approach&#32;for&#32;multi-time&#32;scale&#32;electric&#32;vehicles&#32;charging&#32;load&#32;prediction.pdf)  *丁庆丰*
+5. 从分析模型探索关键天气因素，以改进太阳能发电量预测 *邢晨*
 
 
 
@@ -21,18 +19,13 @@
 <span id = "ImageAspect"/>
 
 1. [High Quality Monocular Depth Estimation via Transfer Learning](论文整理/图像方面/High&#32;Quality&#32;Monocular&#32;Depth&#32;Estimation&#32;via&#32;Transfer&#32;Learning-崔荣成.pdf)	*崔荣成*
-
 2. An Overview of Deep Learning Based Object Detection Techniques	*李炜*
-
 3. Rich feature hierarchies for accurate object detection and semantic segmentation    *曹磊*
-
 4. 深度卷积神经网络的ImageNet分类   *孙超*
-
 5. [Digging Into Self-Supervised Monocular Depth Estimation](论文整理/图像方面/Digging&#32;Into&#32;Self-Supervised&#32;Monocular&#32;Depth&#32;Estimation-崔荣成.pdf) *崔荣成*
-
 6. An intrusion detection *焦旭斌*
-
 7. cnn *焦旭斌*
+8. generative-adversarial-nets *李祎*
 
 
 
