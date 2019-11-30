@@ -26,6 +26,7 @@
 6. An intrusion detection *焦旭斌*
 7. cnn *焦旭斌*
 8. generative-adversarial-nets *李祎*
+9. Imageencryptionusing2DLogistic-adjusted-Sinemap *乐可馨*
 
 
 
