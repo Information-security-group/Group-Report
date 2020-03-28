@@ -13,6 +13,7 @@
 4. [A novel LSTM based deep learning approach for multi-time scale electric vehicles charging load prediction](论文整理/电力负荷/4A&#32;novel&#32;LSTM&#32;based&#32;deep&#32;learning&#32;approach&#32;for&#32;multi-time&#32;scale&#32;electric&#32;vehicles&#32;charging&#32;load&#32;prediction.pdf)  *丁庆丰*
 5. [从分析模型探索关键天气因素，以改进太阳能发电量预测](论文整理/电力负荷/5从分析模型探索关键天气因素，以改进太阳能发电量预测-邢晨.pdf) *邢晨*
 6. [风电预测方法与新趋势综述_韩自奋](论文整理/电力负荷/6风电预测方法与新趋势综述_韩自奋-张浩田)     *张浩田*
+7. [Integrating Gray Data Preprocessor and Deep Belief Network for Day-Ahead PV Power Output Forecast Network for Day-Ahead PV Power Output Forecast](论文整理/电力负荷/7Integrating&#32;novel&#32;Gray&#32;novel&#32;Data&#32;novel&#32;Preprocessor&#32;novel&#32;and&#32;novel&#32;Deep&#32;novel&#32;Belief&#32;novel&#32;Network&#32;novel&#32;for&#32;novel&#32;Day-Ahead&#32;novel&#32;PV&#32;novel&#32;Power&#32;novel&#32;Output&#32;novel&#32;Forecast&#32;novel&#32;Network&#32;novel&#32;for Day-Ahead&#32;novel&#32;PV&#32;novel&#32;Power&#32;novel&#32;Output&#32;novel&#32;Forecast-邢晨) *邢晨*
 
 
 
